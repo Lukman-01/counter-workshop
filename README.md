@@ -25,6 +25,8 @@ Clone this repository and choose whether you prefer using Docker to manage globa
 
 > **Note:** All the commands shown from this point on will assume that you are using the integrated terminal of a VSCode instance running inside the container. If you want to run the tests on a different terminal you'll need to use the command `docker compose run test`.
 
+# For my own solution, the contract is deployed to: 0x6f18c2bc5d83b722f995e2528bc9dbcd54c1679f33466daa07e724da76a1ee6
+
 ## Step 1
 
 Switch to the `step1` branch to enable the verification tests:
