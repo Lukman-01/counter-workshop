@@ -1,4 +1,7 @@
-## For my own solution, the contract is deployed to: 0x6f18c2bc5d83b722f995e2528bc9dbcd54c1679f33466daa07e724da76a1ee6
+## Contract is deployed to: 0x6f18c2bc5d83b722f995e2528bc9dbcd54c1679f33466daa07e724da76a1ee6
+## Class hash : 0x0685875d5700d79414ac40caf0b297f3b72eb38a1994a2bfa559fbacb910d3b0
+
+### The information above are all verified on Voyager Explorer
 
 # Starknet's Counter Workshop
 
